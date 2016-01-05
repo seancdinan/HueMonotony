@@ -6,7 +6,7 @@ a {
 	text-decoration: none;
 }
 
-/*****************/ OPENER /****************************/
+/***************** OPENER ****************************/
 #opener {
 	background-color: transparent;
 	background-image: url(color_block.jpg);
@@ -67,12 +67,12 @@ a {
 	color: hsl(175,50%,80%);
 }
 
-/*****************/ FIRST BLOCK: Saturation /****************************/
+/***************** FIRST BLOCK: Saturation ****************************/
 
 
 
 
 
 
-/*****************/ SECOND BLOCK: LIGHTNESS /****************************/
+/***************** SECOND BLOCK: LIGHTNESS ****************************/
 
